@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+title: Welcome Blog!
 ---
+
+Hello, World!
+Tis me Rudra from RNC.  
